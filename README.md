@@ -9,6 +9,6 @@ Olá Vinicin
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img align="center" alt="html5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zeroarts.com.br%2Fblog%2Fhtml-5-mudancas-na-estrutura-e-na-semantica&psig=AOvVaw2FEgpBCRXsmkw1AD0luvHv&ust=1747094580497000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDhndHQnI0DFQAAAAAdAAAAABAE">
+<img align="center" alt="html5" src="https://www.zeroarts.com.br/foto/jpg/blog/750/html-5-mudancas-na-estrutura-e-na-semantica.jpg">
 
 </div>

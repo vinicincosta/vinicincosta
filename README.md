@@ -9,6 +9,6 @@ Olá Vinicin
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img align="center" alt="html5" src="https://www.zeroarts.com.br/foto/jpg/blog/750/html-5-mudancas-na-estrutura-e-na-semantica.jpg", widht=45>
+<img align="center" alt="html5" src="https://prosimples.com/wp-content/uploads/2024/01/html.png">
 
 </div>

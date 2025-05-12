@@ -7,7 +7,7 @@ Olá Vinicin
 
 <div style="display: inline_block"></br>
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="html5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQqh5ldA3rAHmQZd7zeovoc-4w0xBZ_ZxCw&s">
 
 <img align="center" alt="html5" src="https://prosimples.com/wp-content/uploads/2024/01/html.png">
 
@@ -15,6 +15,9 @@ Olá Vinicin
 <img align="center" alt="html5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s">
 
 <img align="center" alt="html5" src="https://devio2023-media.developers.io/wp-content/uploads/2023/12/flet-1-960x504.jpg">
+
+
+<img align="center" alt="html5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9c01S6mDjzJA_z4NSwaNYkmTBWrBC2sHwHA&s">
 
 
 

@@ -1,12 +1,12 @@
-<h1 align="center">Olá 👋, eu sou SEU NOME</h1>
+<h1 align="center">Olá 👋, eu sou o Vinícius</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 💻 Desenvolvedor focado em [sua área]
-- 🚀 Atualmente aprendendo **React / Node / Python**
-- 📫 Contato: seuemail@email.com
+- 💻 Desenvolvedor 
+- 🚀 Atualmente aprendendo **JavaScript / C++ / Python / Delphi**
+- 📫 Contato: viniciusgcosta2603@gmail.com
 - 🌎 Brasil
 
 ---
@@ -30,7 +30,7 @@
 
 ### 🔥 Projetos principais
 
-- 🚀 Projeto 1 — descrição
+- 🚀 Hamburgueria Web/ Hamburgueria/ Hamburgueria API —  Um sistema de restaurante de hamburgueria/ Regras de Negócio/ A ligação é feita pelo Aplictivo User com osistema web realizando ogerenciamento
 - 🚀 Projeto 2 — descrição
 - 🚀 Projeto 3 — descrição
 

@@ -38,6 +38,6 @@
 
 ### 🌎 Conecte comigo
 
-[LinkedIn](https://linkedin.com/in/seuusuario)
+[LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-costa-7b2201321/)
 
 [Portfólio](https://seusite.com)

@@ -24,13 +24,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=viniciuscosta&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=vinicincosta&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosta&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicincosta&layout=compact&theme=tokyonight)
 
 ---
 
-### 🔥 Projetos principais
+###  Projetos principais
 
 - 🚀 Hamburgueria Web/ Hamburgueria/ Hamburgueria API —  Um sistema de restaurante de hamburgueria/ Regras de Negócio/ A ligação é feita pelo Aplictivo User com osistema web realizando ogerenciamento
 - POO/ Estrutura utilizada para trabalhos em grupo

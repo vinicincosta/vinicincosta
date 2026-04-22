@@ -18,22 +18,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Python](https://img.shields.io/badge/Python-blue)
+![C](https://img.shields.io/badge/C-pink)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=viniciuscosta&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosta&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Projetos principais
 
 - 🚀 Hamburgueria Web/ Hamburgueria/ Hamburgueria API —  Um sistema de restaurante de hamburgueria/ Regras de Negócio/ A ligação é feita pelo Aplictivo User com osistema web realizando ogerenciamento
-- 🚀 Projeto 2 — descrição
-- 🚀 Projeto 3 — descrição
+- POO/ Estrutura utilizada para trabalhos em grupo
 
 ---
 

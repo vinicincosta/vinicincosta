@@ -14,9 +14,9 @@
 ### 🚀 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Css]([[https://img.shields.io/badge/Node-green](https://th.bing.com/th?q=CSS+3.Png&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&pid=InlineBlock&rm=3&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247)](https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png))
-![html]([https://img.shields.io/badge/Node-green](https://th.bing.com/th?q=HTML+LogoArt&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&pid=InlineBlock&rm=3&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247))
-![Node](https://img.shields.io/badge/Node-green)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Python](https://img.shields.io/badge/Python-blue)
 
 ---

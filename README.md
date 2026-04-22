@@ -14,7 +14,8 @@
 ### 🚀 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-blue)
+![Css]([https://img.shields.io/badge/Node-green](https://th.bing.com/th?q=CSS+3.Png&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&pid=InlineBlock&rm=3&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247))
+![html]([https://img.shields.io/badge/Node-green](https://th.bing.com/th?q=HTML+LogoArt&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&pid=InlineBlock&rm=3&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247))
 ![Node](https://img.shields.io/badge/Node-green)
 ![Python](https://img.shields.io/badge/Python-blue)
 

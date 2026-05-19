@@ -35,7 +35,7 @@
 </p>
 ---
 
-###  Projetos principais
+###  Projetos principais (projetos diversificados)
 
 - 🚀 Hamburgueria Web/ Hamburgueria/ Hamburgueria API —  Um sistema de restaurante de hamburgueria/ Regras de Negócio/ A ligação é feita pelo Aplictivo User com o sistema web realizando ogerenciamento  APP (https://github.com/vinicincosta/Hamburgueria-Flet-refatorado) APlCAÇÃO WEB (https://github.com/vinicincosta/Hamburgueria_web-refatorado) API (https://github.com/vinicincosta/HamburgueriaAPI-refatorada-master)
 - 

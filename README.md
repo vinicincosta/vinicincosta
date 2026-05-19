@@ -32,8 +32,9 @@
 
 ###  Projetos principais
 
-- 🚀 Hamburgueria Web/ Hamburgueria/ Hamburgueria API —  Um sistema de restaurante de hamburgueria/ Regras de Negócio/ A ligação é feita pelo Aplictivo User com osistema web realizando ogerenciamento
-- POO/ Estrutura utilizada para trabalhos em grupo
+- 🚀 Hamburgueria Web/ Hamburgueria/ Hamburgueria API —  Um sistema de restaurante de hamburgueria/ Regras de Negócio/ A ligação é feita pelo Aplictivo User com o sistema web realizando ogerenciamento  APP (https://github.com/vinicincosta/Hamburgueria-Flet-refatorado) APlCAÇÃO WEB (https://github.com/vinicincosta/Hamburgueria_web-refatorado) API (https://github.com/vinicincosta/HamburgueriaAPI-refatorada-master)
+- 
+- POO/ Estrutura utilizada para trabalhos em grupo (https://github.com/vinicincosta/POO_atividade_final)
 
 ---
 
